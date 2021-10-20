@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/pehai/static/css/main.ecb5b09b.chunk.css",
+    "main.js": "/pehai/static/js/main.ba1b63d2.chunk.js",
+    "main.js.map": "/pehai/static/js/main.ba1b63d2.chunk.js.map",
+    "runtime-main.js": "/pehai/static/js/runtime-main.737cbaec.js",
+    "runtime-main.js.map": "/pehai/static/js/runtime-main.737cbaec.js.map",
+    "static/js/2.c4086f22.chunk.js": "/pehai/static/js/2.c4086f22.chunk.js",
+    "static/js/2.c4086f22.chunk.js.map": "/pehai/static/js/2.c4086f22.chunk.js.map",
+    "index.html": "/pehai/index.html",
+    "static/css/main.ecb5b09b.chunk.css.map": "/pehai/static/css/main.ecb5b09b.chunk.css.map",
+    "static/js/2.c4086f22.chunk.js.LICENSE.txt": "/pehai/static/js/2.c4086f22.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.737cbaec.js",
+    "static/js/2.c4086f22.chunk.js",
+    "static/css/main.ecb5b09b.chunk.css",
+    "static/js/main.ba1b63d2.chunk.js"
+  ]
+}
